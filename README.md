@@ -54,7 +54,7 @@
 	<a href="mailto:carpe.sol.sun@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://www.notion.so/210f4590fb0e460eb6199e58e842380e">
+	<a href="https://www.notion.so/210f4590fb0e460eb6199e58e842380e"b>
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 </div>
